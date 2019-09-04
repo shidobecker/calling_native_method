@@ -24,7 +24,6 @@ class MainActivity : FlutterActivity() {
             }
             result.success(fromClass)
 
-
         }
     }
 }

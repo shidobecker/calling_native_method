@@ -6,9 +6,5 @@ class NativeClass {
         return "Result from ${NativeClass::class.simpleName}"
     }
 
-    fun changeUser(): User{
-
-    }
-
 
 }
